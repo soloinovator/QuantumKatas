@@ -9,3 +9,4 @@ setuptools
 wheel
 pygments>=2.7.4
 ipython>=5.11.0
+mistune>=2.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
