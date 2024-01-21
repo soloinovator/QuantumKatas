@@ -10,3 +10,4 @@ wheel
 pygments>=2.7.4
 ipython==8.10.0
 nbclient<=0.6.3
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
