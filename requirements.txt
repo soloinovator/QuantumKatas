@@ -10,3 +10,5 @@ wheel
 pygments>=2.7.4
 ipython==8.10.0
 nbclient<=0.6.3
+jupyter-server>=2.14.1 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
